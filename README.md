@@ -6,4 +6,4 @@
 tjsrbkR/tjsrbkR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![JavaScript](https://img.shileds.io/badge/Java-007396/scg?%style=for-the-badge&logo=JavaScript&logoColor = yellow)
+<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=F7DF1E&logoColor=black">
