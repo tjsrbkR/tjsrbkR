@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sun kyu
-- 👀 I’m interested in ... JS,HTML,CSS
-- 🌱 I’m currently learning ...React
+- 👀 I’m interested in ... React,TypeScript
+- 🌱 I’m currently learning ...JS,HTML,CSS
 
 <!---
 tjsrbkR/tjsrbkR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
